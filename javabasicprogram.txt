@@ -1,0 +1,8 @@
+Class Variables{
+Public static void main(String args[]){
+int x = 15;
+int y = 15;
+int sum = x+y;
+System.out.println("The sum of two numbers:" +sum);
+}
+}

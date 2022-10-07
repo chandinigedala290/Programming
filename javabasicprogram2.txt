@@ -1,0 +1,8 @@
+Class Test{
+Public static void main(String args[]){
+int x = 13;
+float y = 16;
+System.out.println(x);
+System.out.println(y):
+}
+}

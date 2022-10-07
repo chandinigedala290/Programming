@@ -1,0 +1,11 @@
+Class Array{
+Public static void main(String args[]){
+int[] values = new int[55];
+values[0] = 12;
+values[1] = 44;
+values[2] = 29;
+values[3] = 37;
+values[54] = 87;
+System.out.println(values[54]);
+}
+}
